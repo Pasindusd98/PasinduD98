@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PasinduD98/PasinduD98/main/assets/tree/profile-banner.jpeg" width="100%">
+  <img src="https://raw.githubusercontent.com/PasinduD98/PasinduD98/main/assets/profile-banner.png" width="100%">
 </p>
 
 # Hi, I'm Pasindu Dissanayake 👋
