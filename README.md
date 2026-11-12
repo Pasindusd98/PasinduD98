@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
   <img
-    src="https://raw.githubusercontent.com/Pasindusd98/PasinduD98/main/assets/profile-banner.png"
+    src="assets/profile-banner1.gif"
     width="100%"
-    alt="Pasindu Dissanayake - AI and Machine Learning"
+    alt="Pasindu Dissanayake - AI/ML Engineer"
   />
-</p>
+</div>
 
 # Hi, I'm Pasindu Dissanayake 👋
 
