@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PasinduD98/PasinduD98/main/assets/profile-banner.jpeg" width="100%">
+</p>
 
 # Hi, I'm Pasindu Dissanayake 👋
 
