@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PasinduD98/PasinduD98/main/assets/profile-banner.png" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/Pasindusd98/PasinduD98/main/assets/profile-banner.png"
+    width="100%"
+    alt="Pasindu Dissanayake - AI and Machine Learning"
+  />
 </p>
 
 # Hi, I'm Pasindu Dissanayake 👋
